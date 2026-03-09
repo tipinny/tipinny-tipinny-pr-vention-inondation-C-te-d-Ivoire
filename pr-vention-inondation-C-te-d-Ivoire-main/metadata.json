@@ -1,0 +1,5 @@
+{
+  "name": "Risk PICI",
+  "description": "Plateforme d'Information Cartographique des Inondations (Risk PICI) en Côte d'Ivoire.",
+  "requestFramePermissions": ["geolocation"]
+}
